@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/oife/student_management/lib/libmyfunc.a CMakeFiles/func_static.dir/home/oife/student_management/src/Student.cpp.o CMakeFiles/func_static.dir/home/oife/student_management/src/StudentManager.cpp.o CMakeFiles/func_static.dir/home/oife/student_management/src/main.cpp.o
+/usr/bin/ranlib /home/oife/student_management/lib/libmyfunc.a

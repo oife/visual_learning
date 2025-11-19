@@ -1,0 +1,5 @@
+/home/oife/student_management/build/CMakeFiles/func_shared.dir
+/home/oife/student_management/build/CMakeFiles/func_static.dir
+/home/oife/student_management/build/CMakeFiles/StudentManagement.dir
+/home/oife/student_management/build/CMakeFiles/edit_cache.dir
+/home/oife/student_management/build/CMakeFiles/rebuild_cache.dir
