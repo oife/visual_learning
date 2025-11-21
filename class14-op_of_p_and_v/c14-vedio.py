@@ -13,6 +13,8 @@ delay = int(1000/fps)
 frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 
+#print("the vedio's size is :",frame_width,frame_height)
+
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 out = cv2.VideoWriter("./imwrite/video_30frames.mp4",fourcc,fps,(frame_width,frame_height))
 
