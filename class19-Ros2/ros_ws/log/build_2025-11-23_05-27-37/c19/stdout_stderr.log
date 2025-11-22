@@ -1,0 +1,26 @@
+[35m[1mConsolidate compiler generated dependencies of target video_process[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/video_read.dir/src/node/video_read.cpp.o[0m
+[ 75%] Built target video_process
+[100%] [32m[1mLinking CXX executable video_read[0m
+/usr/bin/ld: warning: libopencv_core.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_core.so.413
+[100%] Built target video_read
+-- Install configuration: ""
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_read
+-- Set runtime path of "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_read" to ""
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process
+-- Set runtime path of "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process" to ""
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/package_run_dependencies/c19
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/parent_prefix_path/c19
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.sh
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.dsv
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.sh
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.dsv
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.bash
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.sh
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.zsh
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.dsv
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.dsv
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/packages/c19
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config.cmake
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config-version.cmake
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.xml

@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-981889fc1aca8d29eddc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c19",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "c19_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c19_uninstall-0963ee894f31f6cdfb7c.json",
+					"name" : "c19_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-8ae625d84ce2c16f508d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "video_process::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-video_process-c18486f467eb502253cd.json",
+					"name" : "video_process",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "video_read::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-video_read-19aaa5e8e9ade5603cce.json",
+					"name" : "video_read",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19",
+		"source" : "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/src/c19"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

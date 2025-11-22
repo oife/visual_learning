@@ -1,0 +1,29 @@
+[35m[1mConsolidate compiler generated dependencies of target video_read[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/video_process.dir/src/node/video_process.cpp.o[0m
+[ 75%] Built target video_read
+[100%] [32m[1mLinking CXX executable video_process[0m
+/usr/bin/ld: warning: libopencv_imgcodecs.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.413
+/usr/bin/ld: warning: libopencv_imgproc.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_imgproc.so.413
+/usr/bin/ld: warning: libopencv_core.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_core.so.413
+[100%] Built target video_process
+-- Install configuration: ""
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_read
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process
+-- Set runtime path of "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process" to ""
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/video_source
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/video_source/vedio.mp4
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/package_run_dependencies/c19
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/parent_prefix_path/c19
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.sh
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.sh
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.dsv
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.bash
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.sh
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.zsh
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.dsv
+-- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.dsv
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/packages/c19
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config.cmake
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config-version.cmake
+-- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.xml

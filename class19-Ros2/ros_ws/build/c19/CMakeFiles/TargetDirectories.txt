@@ -1,0 +1,11 @@
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/uninstall.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/c19_uninstall.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/video_read.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/video_process.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/test.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/edit_cache.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/rebuild_cache.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/list_install_components.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/install.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/install/local.dir
+/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19/CMakeFiles/install/strip.dir

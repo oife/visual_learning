@@ -1,0 +1,15 @@
+[0.007s] Invoking command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4
+[0.047s] [ 50%] [32mBuilding CXX object CMakeFiles/video_read.dir/src/node/video_read.cpp.o[0m
+[0.047s] [ 50%] [32mBuilding CXX object CMakeFiles/video_process.dir/src/node/video_process.cpp.o[0m
+[0.181s] [01m[K/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/src/c19/src/node/video_read.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kvideo_process-opencv.h: No such file or directory
+[0.182s]     3 | #include [01;31m[K"video_process-opencv.h"[m[K
+[0.182s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.182s] compilation terminated.
+[0.182s] gmake[2]: *** [CMakeFiles/video_read.dir/build.make:76: CMakeFiles/video_read.dir/src/node/video_read.cpp.o] Error 1
+[0.182s] gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/video_read.dir/all] Error 2
+[0.182s] gmake[1]: *** Waiting for unfinished jobs....
+[5.068s] [ 75%] [32m[1mLinking CXX executable video_process[0m
+[5.287s] /usr/bin/ld: warning: libopencv_core.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_core.so.413
+[5.652s] [ 75%] Built target video_process
+[5.653s] gmake: *** [Makefile:146: all] Error 2
+[5.655s] Invoked command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4

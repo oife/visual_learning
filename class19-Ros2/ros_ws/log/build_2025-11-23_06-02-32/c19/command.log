@@ -1,0 +1,4 @@
+Invoking command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4
+Invoked command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4
+Invoking command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19
+Invoked command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19

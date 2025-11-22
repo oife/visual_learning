@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/v_opencv.dir/src/video_processing/video_process-opencv.cpp.o -o v_opencv  -lOpenCV::OpenCV 

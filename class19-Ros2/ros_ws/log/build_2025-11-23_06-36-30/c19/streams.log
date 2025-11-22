@@ -1,0 +1,33 @@
+[0.008s] Invoking command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4
+[0.045s] [35m[1mConsolidate compiler generated dependencies of target video_read[0m
+[0.055s] [ 25%] [32mBuilding CXX object CMakeFiles/video_process.dir/src/node/video_process.cpp.o[0m
+[0.056s] [ 75%] Built target video_read
+[5.324s] [100%] [32m[1mLinking CXX executable video_process[0m
+[5.476s] /usr/bin/ld: warning: libopencv_imgcodecs.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.413
+[5.476s] /usr/bin/ld: warning: libopencv_imgproc.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_imgproc.so.413
+[5.476s] /usr/bin/ld: warning: libopencv_core.so.4.5d, needed by /opt/ros/humble/lib/libcv_bridge.so, may conflict with libopencv_core.so.413
+[5.727s] [100%] Built target video_process
+[5.736s] Invoked command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19 -- -j4 -l4
+[5.746s] Invoking command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19
+[5.750s] -- Install configuration: ""
+[5.750s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_read
+[5.750s] -- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process
+[5.753s] -- Set runtime path of "/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/lib/c19/video_process" to ""
+[5.753s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/video_source
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/video_source/vedio.mp4
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/package_run_dependencies/c19
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/parent_prefix_path/c19
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.sh
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/ament_prefix_path.dsv
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.sh
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/environment/path.dsv
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.bash
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.sh
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.zsh
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/local_setup.dsv
+[5.754s] -- Installing: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.dsv
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/ament_index/resource_index/packages/c19
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config.cmake
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/cmake/c19Config-version.cmake
+[5.754s] -- Up-to-date: /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/install/c19/share/c19/package.xml
+[5.756s] Invoked command in '/home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/class19-Ros2/ros_ws/build/c19

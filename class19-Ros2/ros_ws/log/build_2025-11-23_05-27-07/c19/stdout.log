@@ -1,0 +1,4 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/video_read.dir/src/node/video_read.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/video_process.dir/src/node/video_process.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable video_process[0m
+[ 75%] Built target video_process
