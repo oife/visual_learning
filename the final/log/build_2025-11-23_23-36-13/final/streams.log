@@ -1,0 +1,26 @@
+[0.007s] Invoking command in '/home/oife/d2lros2/visual_learning/the final/build/final': AMENT_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/the final/build/final -- -j4 -l4
+[0.052s] [ 50%] Built target final
+[0.053s] [100%] Built target testnode
+[0.067s] Invoked command in '/home/oife/d2lros2/visual_learning/the final/build/final' returned '0': AMENT_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/the final/build/final -- -j4 -l4
+[0.067s] Invoking command in '/home/oife/d2lros2/visual_learning/the final/build/final': AMENT_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/the final/build/final
+[0.071s] -- Install configuration: ""
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/lib/final/final
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/lib/final/testnode
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/srcimmage/image
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/srcimmage/image/image.png
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/ament_index/resource_index/package_run_dependencies/final
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/ament_index/resource_index/parent_prefix_path/final
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/environment/ament_prefix_path.sh
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/environment/ament_prefix_path.dsv
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/environment/path.sh
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/environment/path.dsv
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/local_setup.bash
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/local_setup.sh
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/local_setup.zsh
+[0.072s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/local_setup.dsv
+[0.072s] -- Installing: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/package.dsv
+[0.073s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/ament_index/resource_index/packages/final
+[0.073s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/cmake/finalConfig.cmake
+[0.073s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/cmake/finalConfig-version.cmake
+[0.073s] -- Up-to-date: /home/oife/d2lros2/visual_learning/the final/install/final/share/final/package.xml
+[0.074s] Invoked command in '/home/oife/d2lros2/visual_learning/the final/build/final' returned '0': AMENT_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/oife/d2lros2/visual_learning/the final/install/aim_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/oife/d2lros2/visual_learning/the final/build/final

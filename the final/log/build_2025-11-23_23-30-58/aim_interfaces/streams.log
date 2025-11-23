@@ -1,0 +1,27 @@
+[0.010s] Invoking command in '/home/oife/d2lros2/visual_learning/the final/build/aim_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/the final/build/aim_interfaces -- -j4 -l4
+[0.030s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.101s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.102s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.103s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.118s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.130s] -- Found rosidl_default_runtime: 1.2.0 (/opt/ros/humble/share/rosidl_default_runtime/cmake)
+[0.130s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.130s] [31mCMake Error at CMakeLists.txt:14 (include):
+[0.130s]   include could not find requested file:
+[0.130s] 
+[0.130s]     /opt/ros/humble/share/rosidl_default_generators/cmake/rosidl_interface_targets.cmake
+[0.130s] 
+[0.130s] [0m
+[0.267s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.368s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.504s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.518s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.530s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.530s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.530s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.538s] -- Added test 'lint_cmake' to check CMake code style
+[0.539s] -- Added test 'xmllint' to check XML markup files
+[0.540s] -- Configuring incomplete, errors occurred!
+[0.540s] See also "/home/oife/d2lros2/visual_learning/the final/build/aim_interfaces/CMakeFiles/CMakeOutput.log".
+[0.543s] gmake: *** [Makefile:747: cmake_check_build_system] Error 1
+[0.545s] Invoked command in '/home/oife/d2lros2/visual_learning/the final/build/aim_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/oife/d2lros2/visual_learning/the final/build/aim_interfaces -- -j4 -l4

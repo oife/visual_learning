@@ -1,0 +1,5 @@
+[31mCMake Error at CMakeLists.txt:33 (rosidl_export_targets):
+  Unknown CMake command "rosidl_export_targets".
+
+[0m
+gmake: *** [Makefile:747: cmake_check_build_system] Error 1
